@@ -1,0 +1,11 @@
+
+
+.UserInput input{
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #B8613D;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 10px auto 30px;
+    color: #4E7544;
+}
